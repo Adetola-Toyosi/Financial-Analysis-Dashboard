@@ -14,7 +14,7 @@ I undertook the development of a comprehensive financial dashboard using MS Exce
   Utilized a combo chart to illustrate the company's cash flow over the period from 2018 to 2022.
   The line graph depicted the cash balance evolution across the years, offering a dynamic view of the company's liquidity.
 
--Productivity Rate Comparison Across Businesses:
+- Productivity Rate Comparison Across Businesses:
   Implemented horizontally clustered bar charts to compare productivity rates across three distinct business segments.
   Clearly visualized and highlighted Business 2 as the most productive in 2022, fostering quick insights into comparative performance.
   
