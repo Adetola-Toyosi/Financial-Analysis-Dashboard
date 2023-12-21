@@ -38,3 +38,6 @@ I undertook the development of a comprehensive financial dashboard using MS Exce
 
 Outcome:
 This is part of my ongoing BIDA certification and the financial dashboard successfully distilled complex financial data into easily digestible visualizations, enabling stakeholders to make informed decisions based on key insights. The project showcases proficiency in data visualization, Excel functionality, and a basic understanding of financial metrics and models.
+
+
+![alt text](https://github.com/Adetola-Toyosi/Financial-Analysis-Dashboard/blob/main/Financial%20Dashboard.jpg)
